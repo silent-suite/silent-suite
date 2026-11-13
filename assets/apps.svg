@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="Get the apps: SilentSuite for Android on Google Play, Zapstore or as an APK, and the DAV Bridge for desktop calendar and contact apps.">
+  <defs>
+    <symbol id="mark" viewBox="0 0 210 210">
+      <g transform="translate(105 113.6) scale(1.42) translate(-105 -105)">
+        <g transform="translate(1.031319 -48.008124)">
+          <path d="m 103.37823,105.13893 c -10.756462,0.18251 -21.313309,4.49685 -29.191412,12.51367 -12.604964,12.8269 -15.609755,32.34552 -7.445312,48.36914 l 12.265625,-6.25 c -5.50107,-10.79646 -3.494974,-23.8301 4.998047,-32.47266 8.493021,-8.64256 21.490042,-10.87431 32.380862,-5.5625 l 6.0332,-12.37305 c -6.06137,-2.95633 -12.58714,-4.33412 -19.04101,-4.2246 z" fill="url(#em)"/><path d="m 114.07261,128.59802 4.85725,-29.069129 17.36851,17.880829 z" fill="url(#em)" stroke="url(#em)" stroke-width="6.865" stroke-linejoin="round"/>
+        </g>
+        <g transform="rotate(180 104.96788 98.943297) translate(1.031319 -48.008124)">
+          <path d="m 103.37823,105.13893 c -10.756462,0.18251 -21.313309,4.49685 -29.191412,12.51367 -12.604964,12.8269 -15.609755,32.34552 -7.445312,48.36914 l 12.265625,-6.25 c -5.50107,-10.79646 -3.494974,-23.8301 4.998047,-32.47266 8.493021,-8.64256 21.490042,-10.87431 32.380862,-5.5625 l 6.0332,-12.37305 c -6.06137,-2.95633 -12.58714,-4.33412 -19.04101,-4.2246 z" fill="#fff"/><path d="m 114.07261,128.59802 4.85725,-29.069129 17.36851,17.880829 z" fill="#fff" stroke="#fff" stroke-width="6.865" stroke-linejoin="round"/>
+        </g>
+      </g>
+    </symbol>
+    <linearGradient id="em" x1="66" y1="64" x2="138" y2="135" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: Hack, 'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace; font-size: 14px; fill: #d6dee8; white-space: pre; }
+    .m { fill: #6b7a8c; } .e { fill: #34d399; } .s { fill: #8a99ab; } .b { font-weight: 700; }
+    .ui { font-family: 'Noto Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; fill: #9fb0c3; }
+    .lbl { font-family: 'Noto Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 1.6px; }
+    .in { animation: in .35s ease-out var(--d, 0s) both; }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+    .go { animation: go 1.6s ease-in-out infinite; }
+    @keyframes go { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
+    .btn { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { stroke-opacity: .4; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .go, .btn { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="822" height="74" rx="6" fill="#0A1018" stroke="#1f2a37" stroke-width="1.5"/>
+  <rect x="1" y="16" width="3" height="44" rx="1.5" fill="#34d399"/>
+  <rect class="btn" x="834" y="1" width="65" height="74" rx="6" fill="#0A1018" stroke="#34d399" stroke-width="1.5"/>
+  <text x="28" y="32"><tspan class="e b">$</tspan> ls ~/apps</text>
+  <text x="28" y="57"><tspan class="e">›</tspan> <tspan class="e b">Android + desktop</tspan>  the app on Play, Zapstore or as an APK<tspan class="m"> · DAV Bridge for desktop</tspan></text>
+  <path class="go" d="M856 32 H878 M870 24 L878 32 L870 40" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="lbl m" x="866.5" y="60" text-anchor="middle" style="font-size:9.5px">GET</text>
+</svg>
