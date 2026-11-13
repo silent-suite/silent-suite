@@ -2,6 +2,8 @@
 
 <a href="https://silentsuite.io"><img src="assets/hero.svg" width="100%" alt="Split terminal. Left, your phone shows a calendar event in plain text. Right, the SilentSuite server holds the same event as unreadable ciphertext."></a>
 
+<a href="https://silentsuite.io"><img src="assets/mockup.jpg" width="100%" alt="SilentSuite on a phone and a laptop: the same week of calendar events in the Android-sized view and the app.silentsuite.io web calendar. Headline: Encrypted Sync for Calendar, Contacts, and Tasks."></a>
+
 <a href="https://app.silentsuite.io/signup"><img src="assets/try.svg" width="100%" alt="Try SilentSuite in your browser: calendar, contacts and tasks. 7 days free, no card needed."></a>
 
 <a href="https://docs.silentsuite.io/user-guide/apps"><img src="assets/apps.svg" width="100%" alt="Get the apps: SilentSuite for Android on Google Play, Zapstore or as an APK, and the DAV Bridge for desktop calendar and contact apps."></a>
